@@ -1,0 +1,7 @@
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.exe.config
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.exe
+C:\Users\АушахмановИ\source\repos\Index\Index\bin\Debug\Index.pdb
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.csprojAssemblyReference.cache
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.exe
+C:\Users\АушахмановИ\source\repos\Index\Index\obj\Debug\Index.pdb
